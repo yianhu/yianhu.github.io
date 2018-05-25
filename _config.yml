@@ -101,8 +101,8 @@ analytics:
 # Site Author
 author:
   name             : "Yian Hu"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "Data Science Enthusiast Seeking a Data Scientist/Analyst Job|Master of Business Analytics 18'|Mezzo-soprano|Happy Foodie"
+  avatar           : "/images/bio.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  bio              : "A Data Science Enthusiast Seeking a Data Analyst Job"
   location         : "Dallas, TX"
   email            :
   uri              :
